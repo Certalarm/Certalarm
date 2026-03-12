@@ -50,5 +50,6 @@ Hello. I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ## Contact me
 [![Email](https://custom-icon-badges.demolab.com/badge/Mail-005cf1.svg?style=for-the-badge&logo=mail)](mailto:github@certalarm.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-333537?style=for-the-badge&logo=Telegram)](https://t.me/evgenru80)
+[![Max](https://custom-icon-badges.demolab.com/badge/-max-logo?style=for-the-badge&logo=max-logo)](https://max.ru/u/f9LHodD0cOKZ54b13SuNKPimb5L_yfJCxD7AHplzLl470OcvNEMwbhep5O8)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=certalarm)](https://github.com/anuraghazra/github-readme-stats) -->
