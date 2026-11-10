@@ -48,7 +48,7 @@ Hello. I'm a Full-Stack .NET developer and can perform tasks in a wide range.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contact me
-[![Email](https://custom-icon-badges.demolab.com/badge/Mail-005cf1.svg?style=for-the-badge&logo=mail)](mailto:github@certalarm.ru)
+[![Email](https://custom-icon-badges.demolab.com/badge/Mail-005cf1.svg?style=for-the-badge&logo=mail)](mailto:certalarm@mail.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-333537?style=for-the-badge&logo=Telegram)](https://t.me/evgenru80)
 [![Max](https://custom-icon-badges.demolab.com/badge/-max-logo?style=for-the-badge&logo=max-logo)](https://max.ru/u/f9LHodD0cOKZ54b13SuNKPimb5L_yfJCxD7AHplzLl470OcvNEMwbhep5O8)
 
